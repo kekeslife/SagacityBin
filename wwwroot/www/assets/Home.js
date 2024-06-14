@@ -1,0 +1,1 @@
+import{d as r}from"./vendor.js";const c=(e,o)=>{const t=e.__vccOpts||e;for(const[_,n]of o)t[_]=n;return t},s=r({__name:"Home",setup(e){return(o,t)=>null}}),a=c(s,[["__scopeId","data-v-e11e7e04"]]),l=Object.freeze(Object.defineProperty({__proto__:null,default:a},Symbol.toStringTag,{value:"Module"}));export{l as H,c as _};

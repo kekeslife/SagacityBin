@@ -1,0 +1,1 @@
+var n=(e=>(e.chinese="cn",e.english="en",e))(n||{});const r={属性不能为空:(e,a)=>`${e.属性不能为空.replace("${}",a)}`,属性已存在:(e,a)=>`${e.属性已存在.replace("${}",a)}`,属性已变更:(e,a)=>`${e.属性已变更.replace("${}",a)}`,不能为空:e=>e.不能为空,合并:(...e)=>e.join(" ")};export{n as E,r as v};
